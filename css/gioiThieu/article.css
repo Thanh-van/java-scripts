@@ -1,0 +1,30 @@
+.article{  
+   margin-left: 50px;
+    width: 60%;
+    float: left;
+}
+.tile h4{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: whitesmoke;   
+    background-color: burlywood;
+    height: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+
+    border-radius: 20px;
+}
+.article .nd h4{
+    font-size: 25px;
+    color: brown;
+}
+.article .nd p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.article .nd img{
+    width: 100%;    
+}
+

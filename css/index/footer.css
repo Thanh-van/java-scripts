@@ -1,0 +1,74 @@
+.foooter{
+    color: darksalmon;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.fot{
+    background-color: darksalmon;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+   
+}
+.fot p{
+    color: black;
+    padding-top: 10px;   
+}
+/* pet */
+.pet{
+    width: 100%;
+    height: 350px;
+    background-color: whitesmoke;
+    
+
+}
+/* lienhe */
+.pet .lienHe {
+   float: left;
+   margin: 20px;
+   font-weight: bold;
+  
+}
+.pet .lienHe a{
+    text-decoration: none;
+    color: black ;
+}
+/* diachi */
+.pet .diachi { 
+    float: left;
+    font-weight: bold;
+    margin: 20px;
+   
+ }
+.bando{  
+    width: 400px;
+    height: 200px;
+}
+
+/* bai viet */
+.pet .baiviet{
+    float: left;
+    margin: 20px;
+}
+.baiviet a{
+    text-decoration: none;
+    color: black ;
+}
+.pet .baiviet img{
+    border-radius: 5px;
+    width: 100px;
+    height: 70px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+.e1  {
+    float: left;
+}
+.e3{
+    float: left;
+}
+.pet .baiviet p{
+    float: left;
+    font-size: 15px;
+}

@@ -1,0 +1,61 @@
+.tile h4{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: whitesmoke;   
+    background-color: burlywood;
+    height: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+
+    border-radius: 20px;
+}
+
+.content{
+    width: 80%;
+    margin: auto;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* dag nhap */
+.dagNhap{
+  
+    width: 50%;
+    margin-left: 20px;
+    float: left;
+}
+.dagNhap h4{
+    font-weight: bold;
+    font-size: 25px;
+}
+.dagNhap .i input{
+    width: 80%;
+}
+.dagNhap button{
+    border-radius: 10px;
+    background-color: aqua;
+    color: red;
+    font-size: 12px;
+   padding: 10px;
+}
+
+/* dag ky */
+
+.dagKy h4{
+    
+    font-weight: bold;
+    font-size: 25px;
+}
+.dagKy .i input{
+    width: 40%;
+}
+.dagKy button{
+    border-radius: 10px;
+    background-color: aqua;
+    color: red;
+   font-size: 12px;
+   padding: 10px;
+    
+}

@@ -1,0 +1,102 @@
+
+body{
+    margin: 0;
+
+    
+}
+.container{
+    padding: 0;
+    margin: 0;
+   
+    
+}
+.container header {
+    width: 100%;
+           
+}
+.container header .h-title{
+    height: 40px;
+    background-color:beige;   
+    
+}
+.container header .h-title img {
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-right: 20px;
+    float: right;
+    border: 2px solid black;
+    border-radius: 5px;
+
+    
+}
+.container header .h-title  h6{
+    
+    float: right;
+    color: red;
+    margin-right: 10px;
+    font-size: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs;
+}
+
+/* menu */
+.header-main{
+    height: 70px;
+    background: gray;
+    padding: 5px 5px 5px 30px;
+   
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+    margin-right: 200px;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+.menu li a{
+    margin-right: 35px;
+    margin-top: 30px;
+    text-decoration: none;
+    color: whitesmoke;
+    display: inline-block;
+    padding: 0 10px;
+    font-size: 20px;
+   
+}
+
+.menu li  a:hover{
+    text-decoration: underline;
+    color: brown ;
+}
+.menu li  a:active{
+    color: gold;
+}
+
+.header-main > img{
+    width: 150px;
+    height: 70px;
+    margin-left: 50px;
+}
+.header-main .taikhoan img{
+    margin-right: 10px;
+    margin-top: 30px;
+    width: 25px;
+    height: 25px;
+    float: right;
+}
+.header-main .taikhoan a{
+    text-decoration: none;
+    color: #fefbfb;
+}
+.header-main .taikhoan h6{
+    float: right;
+    font-size: 15px;
+}
